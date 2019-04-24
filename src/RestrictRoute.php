@@ -1,6 +1,6 @@
 <?php
 
-namespace DavidePastore\Slim\RestrictRoute;
+namespace GlinGlin\Slim\RestrictRoute;
 
 use Respect\Validation\Validator as v;
 

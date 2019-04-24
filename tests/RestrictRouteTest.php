@@ -1,8 +1,8 @@
 <?php
 
-namespace DavidePastore\Slim\RestrictRoute\Tests;
+namespace GlinGlin\Slim\RestrictRoute\Tests;
 
-use DavidePastore\Slim\RestrictRoute\RestrictRoute;
+use GlinGlin\Slim\RestrictRoute\RestrictRoute;
 use Slim\Http\Body;
 use Slim\Http\Environment;
 use Slim\Http\Headers;

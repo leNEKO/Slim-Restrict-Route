@@ -1,5 +1,5 @@
 {
-    "name": "davidepastore/slim-restrict-route",
+    "name": "glinglin/slim-restrict-route",
     "description": "A Slim middleware to restrict ip addresses that will access to your routes",
     "keywords": [
         "slim",
@@ -15,6 +15,10 @@
         {
             "name": "Davide Pastore",
             "email": "pasdavide@gmail.com"
+        },
+        {
+            "name": "Glinglin",
+            "email": "le.neko@gmail.com"
         }
     ],
     "require": {
@@ -29,13 +33,13 @@
     },
     "autoload": {
         "psr-4": {
-            "DavidePastore\\Slim\\RestrictRoute\\": "src"
+            "GlinGlin\\Slim\\RestrictRoute\\": "src"
         }
     },
     "license": "GPL-2.0+",
     "autoload-dev": {
         "psr-4": {
-            "DavidePastore\\Slim\\RestrictRoute\\Tests\\": "tests"
+            "GlinGlin\\Slim\\RestrictRoute\\Tests\\": "tests"
         }
     }
 }
